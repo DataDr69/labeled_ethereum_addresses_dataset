@@ -1,4 +1,4 @@
-# labeled_ethereum_addresses_dataset
+# Labeled Ethereum Addresses Dataset
 Dataset containing tagged ethereum addresses of centralized exchanges, decentralized exchanges including a large uniswap package, layer 2 and several other ethereum projects.
 
 #### Addresses are up to date: 2023-06-07
